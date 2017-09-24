@@ -1,3 +1,3 @@
 # AndroidTest
 Testovacie kody pre android
-zmena 1
+zmena 2
